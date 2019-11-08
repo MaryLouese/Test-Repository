@@ -1,0 +1,6 @@
+.row>div {
+  border: 1px solid grey;
+  background-color: #42f4a7;
+  background-clip: content-box;
+  min-height: 100px;
+}
